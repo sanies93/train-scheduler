@@ -1,0 +1,37 @@
+body {
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 16px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.jumbotron {
+    height: 200px;
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 54px;
+    font-weight: bold;
+    text-align: center;
+    background-color: darkcyan;
+    color: white;
+    border: 2px ridge white;
+}
+
+.card {
+    opacity: 0.85;
+    background-color: whitesmoke;
+}
+
+.card-header {
+    font-size: 18px;
+    font-weight: bold;
+    background-color: darkcyan;
+    color: white;
+}
+
+.btn {
+    background-color: darkcyan;
+    font-size: 18px;
+    color: white;
+}
